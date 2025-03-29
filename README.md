@@ -14,7 +14,7 @@
 ## 📂 Repository Contents
 - **SPORTSTER Report.pdf** – Detailed project documentation.
 - **SPORTSTER Presentation.pptx** – Project presentation slides.
-- **SPORTSTER Poster.pdf** – Promotional poster.
+- **SPORTSTER Poster.pdf** – Project poster.
 - **SPORTSTER Figma Design** – UI/UX design prototype.
 - **SPORTSTER Figma Design Video.mp4** – Walkthrough of the Figma design.
 - **SPORTSTER APK File** – Android application for testing.
