@@ -1,5 +1,5 @@
 # SPORTSTER
-![logo](screenshots/sportster_pic_2.png)
+![logo](screenshots/Sportster_Pic_3.png)
 ## 🚀 Overview
 **SPORTSTER** is an all-in-one platform designed for the sports community. It provides services such as sports facility booking, tournament management, an online store, and social networking for sports enthusiasts.
 
@@ -22,7 +22,7 @@
 
 ## 📸 SPORTSTER application
 Here are some visuals of the SPORTSTER application:
-![Home Screen](screenshots/sportster_pic_1.png)
+![Home Screen](screenshots/Sportster_Pic_1.png)
 
 ## 🔗 Live Prototype
 Check out the Figma prototype:  
