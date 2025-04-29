@@ -55,4 +55,4 @@ Currently, contributions are **restricted**. If you'd like to suggest improvemen
 For queries, reach out via email: **fahadimdad966@gmail.com**
 
 ---
-Developed with ❤️ by **Muhammad Fahad Imdad, Bilal Ahmed, Shaheer Wasti, and Huzaifa Mustafa**
+Developed with ❤️ by **Muhammad Fahad Imdad, Bilal Ahmed and Shaheer Wasti**
