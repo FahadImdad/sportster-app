@@ -43,7 +43,6 @@ Authors:
 - Muhammad Fahad Imdad
 - Bilal Ahmed
 - Shaheer Wasti
-- Huzaifa Mustafa
 
 For inquiries, contact: fahadimdad966@gmail.com
 ```
